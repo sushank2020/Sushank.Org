@@ -1,4 +1,5 @@
 1:CHARACTERIZATION OF DISTRIBUTED SYSTEMS
+----------------------------------------------
 
 1.1:Introduction
   Concurrency
@@ -32,7 +33,8 @@
 
 1.6 Case study: The World Wide Web
 -------------------------------------------------------
-2:SYSTEM MODELS
+2: SYSTEM MODELS
+----------------------------
 
 2.1 Introduction
 2.2 Physical models
