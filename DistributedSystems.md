@@ -31,6 +31,38 @@
 1.5.8 Quality of service
 
 1.6 Case study: The World Wide Web
+-------------------------------------------------------
+2:SYSTEM MODELS
+
+2.1 Introduction
+2.2 Physical models
+2.3 Architectural models
+2.3.1 Architectural elements
+ Communicating entities
+  Objects:
+  Components:
+  Web services:
+ Communication paradigms
+  interprocess communication
+  remote invocation
+    Request-reply protocols
+    Remote procedure calls
+    Remote method invocation
+  indirect communication
+    Group communication
+    Publish-subscribe systems
+    Message queues
+    Tuple spaces
+    Distributed shared memory
+ Roles and responsibilities
+ 
+    
+  
+  
+  
+ 
+ 
+ 
 
  
   
